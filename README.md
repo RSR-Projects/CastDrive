@@ -11,7 +11,9 @@
   <img src="IMG-20260920-WA0051.jpg" width="220">
   <img src="IMG-20260920-WA0052.jpg" width="220">
 </p>
+🎬 CastDrive Demo
 
+"▶️ Watch the CastDrive demo" (CastDrive.mp4)
 
 # CastDrive
 
