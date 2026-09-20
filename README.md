@@ -1271,9 +1271,7 @@ Do not interact with a mirrored phone interface while driving if doing so would 
 
 # 📄 License
 
-Choose the license for this repository before publishing.
-
-For example, if this project is released under the MIT License, replace this section with the standard MIT license text.
+MIT License
 
 ---
 
