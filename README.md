@@ -11,6 +11,13 @@
   <img src="IMG-20260920-WA0051.jpg" width="220">
   <img src="IMG-20260920-WA0052.jpg" width="220">
 </p>
+
+## 📥 Download
+
+**Latest release: CastDrive v1.0.0**
+
+[⬇️ Download CastDrive v1.0.0](../../releases/latest)
+
 ## 🎬 CastDrive Demo
 
 [▶️ Watch CastDrive Demo](./CastDrive.mp4)
