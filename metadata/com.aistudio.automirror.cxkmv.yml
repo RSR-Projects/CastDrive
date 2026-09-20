@@ -1,0 +1,47 @@
+Categories:
+  - Multimedia
+  - Connectivity
+License: MIT
+AuthorName: RSR-Projects
+SourceCode: https://github.com/RSR-Projects/CastDrive
+IssueTracker: https://github.com/RSR-Projects/CastDrive/issues
+
+AutoName: CastDrive
+Summary: Real-time phone to car stereo screen mirroring and remote control
+Description: |-
+  CastDrive turns your Android smartphone into a high-performance casting transmitter and any secondary Android device, Android 7/8+ car stereo head unit, or Android Auto display into a real-time mirroring receiver.
+
+  Key Features:
+  * **Native Receiver Mode**: Direct H.264 video streaming over low-overhead TCP socket connection.
+  * **Reverse Touchscreen Control**: Tap, drag, swipe, and trigger system actions (Back, Home, Recents) directly from your car stereo's touchscreen to control your phone via the Accessibility framework (no root required).
+  * **Internal Audio Mirroring**: Streams device system audio directly to your car stereo with high fidelity (Android 10+).
+  * **Browser Receiver Mode**: Zero-install streaming on any car stereo browser navigating to http://<phone-ip>:8080.
+  * **Zero Cloud / Offline First**: All network transmission is entirely local over Wi-Fi or USB tethering. No accounts, tracking, or remote servers.
+
+  Connection Methods:
+  * **USB Tethering (Experimental)**: Connect via standard USB cable with tethering enabled for ultra-low latency (<50ms).
+  * **Wi-Fi Hotspot / Local Wi-Fi**: Direct wireless streaming with automatic UDP beacon discovery.
+  * **Android Auto (Experimental)**: In-car dashboard controls and screen projection via AndroidX Car App and Media Browser services.
+
+  Permissions Explained:
+  * FOREGROUND_SERVICE & FOREGROUND_SERVICE_MEDIA_PROJECTION: Required to capture the phone screen for transmission.
+  * RECORD_AUDIO: Required for system audio capture using Android 10+ AudioPlaybackCapture.
+  * INTERNET & ACCESS_NETWORK_STATE / ACCESS_WIFI_STATE: Local network socket streaming and connection discovery.
+  * BIND_ACCESSIBILITY_SERVICE (Optional): Required for reverse touch control injection back to the transmitter phone.
+  * POST_NOTIFICATIONS: Displays ongoing foreground service notification with quick-stop action.
+
+  Known Limitations:
+  * DRM-protected content (e.g. Netflix, Disney+) displays a black screen due to Android OS hardware security policies.
+  * System audio capture requires Android 10 or higher; apps that opt out of audio capture cannot be recorded.
+  * Android Auto and USB tethering features are marked experimental and compatibility depends on vehicle head unit hardware.
+
+RepoType: git
+Repo: https://github.com/RSR-Projects/CastDrive.git
+
+Builds:
+  - versionName: 1.0.1
+    versionCode: 2
+    commit: '%%COMMIT_OR_TAG_PLACEHOLDER%%' # Replace with actual Git commit hash or git tag (e.g. v1.0.1) once pushed
+    subdir: app
+    gradle:
+      - assembleRelease
