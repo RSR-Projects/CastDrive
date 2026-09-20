@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CastDrive</string>
+    <string name="accessibility_service_desc">Enables reverse touchscreen control from your car stereo screen to your phone.</string>
+</resources>

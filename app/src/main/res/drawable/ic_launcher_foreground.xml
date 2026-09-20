@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Car Stereo Screen Frame -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M24,30 L84,30 A4,4 0 0,1 88,34 L88,74 A4,4 0 0,1 84,78 L24,78 A4,4 0 0,1 20,74 L20,34 A4,4 0 0,1 24,30 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,30 L84,30 A4,4 0 0,1 88,34 L88,74 A4,4 0 0,1 84,78 L24,78 A4,4 0 0,1 20,74 L20,34 A4,4 0 0,1 24,30 Z"
+        android:strokeWidth="2"
+        android:strokeColor="#38BDF8" />
+    <!-- Screen Inner Display Area -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M25,35 L83,35 L83,73 L25,73 Z" />
+    <!-- Stand / Car Dashboard mount -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M48,78 L60,78 L64,86 L44,86 Z" />
+    <!-- Phone Screen on left side casting -->
+    <path
+        android:fillColor="#00F5D4"
+        android:pathData="M32,42 L46,42 A2,2 0 0,1 48,44 L48,64 A2,2 0 0,1 46,66 L32,66 A2,2 0 0,1 30,64 L30,44 A2,2 0 0,1 32,42 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M33,45 L45,45 L45,61 L33,61 Z" />
+    <!-- Screen Mirror Beam Waves from Phone to Head Unit -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,48 C57,51 57,57 54,60"
+        android:strokeWidth="2.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M61,44 C66,48 66,60 61,64"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFBE0B"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M68,40 C75,46 75,62 68,68"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00F5D4"
+        android:strokeLineCap="round" />
+    <!-- Mirror check dot indicator -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M39,63.5 A1,1 0 1,1 39,63.49 Z" />
+</vector>

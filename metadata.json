@@ -1,0 +1,6 @@
+{
+  "name": "CastDrive",
+  "description": "Ultra low-latency phone to car stereo screen mirroring over Wi-Fi and USB tethering for Android Auto and Android 7 & 8+ head units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
