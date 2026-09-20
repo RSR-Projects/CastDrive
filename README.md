@@ -1,3 +1,28 @@
+<p align="center">
+  <img src="IMG-20260920-WA0029.jpg" width="220">
+  <img src="IMG-20260920-WA0031.jpg" width="220">
+  <img src="IMG-20260920-WA0046.jpg" width="220">
+  <img src="IMG-20260920-WA0048.jpg" width="220">
+</p>
+
+<p align="center">
+  <img src="IMG-20260920-WA0049.jpg" width="220">
+  <img src="IMG-20260920-WA0050.jpg" width="220">
+  <img src="IMG-20260920-WA0051.jpg" width="220">
+  <img src="IMG-20260920-WA0052.jpg" width="220">
+</p>
+
+## 📥 Download
+
+**Latest release: CastDrive v1.0.0**
+
+[⬇️ Download CastDrive v1.0.0](../../releases/latest)
+
+## 🎬 CastDrive Demo
+
+[▶️ Watch CastDrive Demo](./CastDrive.mp4)
+
+
 # CastDrive
 
 ### Android screen mirroring for cars, Android devices and browsers
@@ -1271,9 +1296,7 @@ Do not interact with a mirrored phone interface while driving if doing so would 
 
 # 📄 License
 
-Choose the license for this repository before publishing.
-
-For example, if this project is released under the MIT License, replace this section with the standard MIT license text.
+MIT License
 
 ---
 
