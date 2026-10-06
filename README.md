@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="1.png" width="220">
-  <img src="IMG-20260920-WA0031.jpg" width="220">
-  <img src="IMG-20260920-WA0046.jpg" width="220">
-  <img src="IMG-20260920-WA0048.jpg" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="220">
 </p>
 
 <p align="center">
-  <img src="IMG-20260920-WA0049.jpg" width="220">
-  <img src="IMG-20260920-WA0050.jpg" width="220">
-  <img src="IMG-20260920-WA0051.jpg" width="220">
-  <img src="IMG-20260920-WA0052.jpg" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="220">
+  <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="220">
 </p>
+
 
 ## 📥 Download
 
