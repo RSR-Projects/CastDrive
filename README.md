@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG-20260920-WA0029.jpg" width="220">
+  <img src="1.png" width="220">
   <img src="IMG-20260920-WA0031.jpg" width="220">
   <img src="IMG-20260920-WA0046.jpg" width="220">
   <img src="IMG-20260920-WA0048.jpg" width="220">
